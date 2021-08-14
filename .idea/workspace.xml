@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -17,26 +22,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="396a64ac-624f-4614-9c8c-b23784304286" name="Default Changelist" comment="Uas AKB 10118389 Muhammad Salman Al-Farisi" />
-    <list id="9c47c700-31b2-4ef9-b0b5-09101cf51d97" name="Revert &quot;Revert &quot;Uas AKB 10118389 Muhammad Salman Al-Farisi&quot;&quot;" comment="Revert &quot;Revert &quot;Uas AKB 10118389 Muhammad Salman Al-Farisi&quot;&quot;&#10;&#10;This reverts commit 89a6104f">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-    </list>
+    <list id="9c47c700-31b2-4ef9-b0b5-09101cf51d97" name="Revert &quot;Revert &quot;Uas AKB 10118389 Muhammad Salman Al-Farisi&quot;&quot;" comment="Revert &quot;Revert &quot;Uas AKB 10118389 Muhammad Salman Al-Farisi&quot;&quot;&#10;&#10;This reverts commit 89a6104f" />
     <list id="7ba83295-0f77-4147-af8e-af530db36f05" name="Revert &quot;Uas AKB 10118389 Muhammad Salman Al-Farisi&quot;" comment="Revert &quot;Uas AKB 10118389 Muhammad Salman Al-Farisi&quot;&#10;&#10;This reverts commit 588c035c" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -74,6 +67,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -173,7 +167,14 @@
       <option name="presentableId" value="Default" />
       <updated>1628945619710</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Uas AKB 10118389 Muhammad Salman Al-Farisi">
+      <created>1628945829869</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1628945829869</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -209,7 +210,8 @@
     <MESSAGE value="Revert &quot;Uas AKB 10118389 Muhammad Salman Al-Farisi&quot;&#10;&#10;This reverts commit ca54dd85" />
     <MESSAGE value="Revert &quot;Uas AKB 10118389 Muhammad Salman Al-Farisi&quot;&#10;&#10;This reverts commit 588c035c" />
     <MESSAGE value="Uas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Uas" />
+    <MESSAGE value="Uas AKB 10118389 Muhammad Salman Al-Farisi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uas AKB 10118389 Muhammad Salman Al-Farisi" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="0" key="CommitChangelistDialog2" timestamp="1628945579249">
@@ -220,10 +222,14 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="147" y="68" key="DiffContextDialog/0.0.1536.864@0.0.1536.864" timestamp="1628945483207" />
-    <state x="534" y="136" key="RollbackChangesDialog" timestamp="1628945702464">
+    <state x="534" y="136" key="RollbackChangesDialog" timestamp="1628945900755">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="534" y="136" key="RollbackChangesDialog/0.0.1536.864@0.0.1536.864" timestamp="1628945702464" />
+    <state x="534" y="136" key="RollbackChangesDialog/0.0.1536.864@0.0.1536.864" timestamp="1628945900755" />
+    <state x="373" y="167" key="Vcs.Push.Dialog.v2" timestamp="1628945843757">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="373" y="167" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1628945843757" />
     <state x="597" y="328" key="git4idea.ui.GitResetDialog" timestamp="1628945685295">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
